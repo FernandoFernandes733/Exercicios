@@ -1,0 +1,14 @@
+C:\Users\netin\source\repos\exercicios\exercicios\bin\Debug\netcoreapp3.1\DESAFIO.exe
+C:\Users\netin\source\repos\exercicios\exercicios\bin\Debug\netcoreapp3.1\DESAFIO.deps.json
+C:\Users\netin\source\repos\exercicios\exercicios\bin\Debug\netcoreapp3.1\DESAFIO.runtimeconfig.json
+C:\Users\netin\source\repos\exercicios\exercicios\bin\Debug\netcoreapp3.1\DESAFIO.runtimeconfig.dev.json
+C:\Users\netin\source\repos\exercicios\exercicios\bin\Debug\netcoreapp3.1\DESAFIO.dll
+C:\Users\netin\source\repos\exercicios\exercicios\bin\Debug\netcoreapp3.1\DESAFIO.pdb
+C:\Users\netin\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\DESAFIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netin\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\DESAFIO.AssemblyInfoInputs.cache
+C:\Users\netin\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\DESAFIO.AssemblyInfo.cs
+C:\Users\netin\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\DESAFIO.csproj.CoreCompileInputs.cache
+C:\Users\netin\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\DESAFIO.dll
+C:\Users\netin\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\DESAFIO.pdb
+C:\Users\netin\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\DESAFIO.genruntimeconfig.cache
+C:\Users\netin\source\repos\exercicios\exercicios\obj\Debug\netcoreapp3.1\DESAFIO.csproj.AssemblyReference.cache
