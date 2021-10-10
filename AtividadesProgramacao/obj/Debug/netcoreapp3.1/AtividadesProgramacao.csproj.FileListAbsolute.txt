@@ -1,0 +1,14 @@
+C:\Users\netin\source\repos\AtividadesProgramacao\AtividadesProgramacao\bin\Debug\netcoreapp3.1\AtividadesProgramacao.exe
+C:\Users\netin\source\repos\AtividadesProgramacao\AtividadesProgramacao\bin\Debug\netcoreapp3.1\AtividadesProgramacao.deps.json
+C:\Users\netin\source\repos\AtividadesProgramacao\AtividadesProgramacao\bin\Debug\netcoreapp3.1\AtividadesProgramacao.runtimeconfig.json
+C:\Users\netin\source\repos\AtividadesProgramacao\AtividadesProgramacao\bin\Debug\netcoreapp3.1\AtividadesProgramacao.runtimeconfig.dev.json
+C:\Users\netin\source\repos\AtividadesProgramacao\AtividadesProgramacao\bin\Debug\netcoreapp3.1\AtividadesProgramacao.dll
+C:\Users\netin\source\repos\AtividadesProgramacao\AtividadesProgramacao\bin\Debug\netcoreapp3.1\AtividadesProgramacao.pdb
+C:\Users\netin\source\repos\AtividadesProgramacao\AtividadesProgramacao\obj\Debug\netcoreapp3.1\AtividadesProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netin\source\repos\AtividadesProgramacao\AtividadesProgramacao\obj\Debug\netcoreapp3.1\AtividadesProgramacao.AssemblyInfoInputs.cache
+C:\Users\netin\source\repos\AtividadesProgramacao\AtividadesProgramacao\obj\Debug\netcoreapp3.1\AtividadesProgramacao.AssemblyInfo.cs
+C:\Users\netin\source\repos\AtividadesProgramacao\AtividadesProgramacao\obj\Debug\netcoreapp3.1\AtividadesProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\netin\source\repos\AtividadesProgramacao\AtividadesProgramacao\obj\Debug\netcoreapp3.1\AtividadesProgramacao.dll
+C:\Users\netin\source\repos\AtividadesProgramacao\AtividadesProgramacao\obj\Debug\netcoreapp3.1\AtividadesProgramacao.pdb
+C:\Users\netin\source\repos\AtividadesProgramacao\AtividadesProgramacao\obj\Debug\netcoreapp3.1\AtividadesProgramacao.genruntimeconfig.cache
+C:\Users\netin\source\repos\AtividadesProgramacao\AtividadesProgramacao\obj\Debug\netcoreapp3.1\AtividadesProgramacao.csproj.AssemblyReference.cache
